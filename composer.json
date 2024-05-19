@@ -1,19 +1,20 @@
 {
-    "name": "yiisoft/_____",
+    "name": "yiisoft/locale-middleware",
     "type": "library",
     "description": "_____",
     "keywords": [
-        "_____"
+        "yii3",
+        "framework"
     ],
     "homepage": "https://www.yiiframework.com/",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/_____/issues?state=open",
+        "issues": "https://github.com/yiisoft/locale-middleware/issues?state=open",
+        "source": "https://github.com/yiisoft/locale-middleware",
         "forum": "https://www.yiiframework.com/forum/",
         "wiki": "https://www.yiiframework.com/wiki/",
         "irc": "ircs://irc.libera.chat:6697/yii",
-        "chat": "https://t.me/yii3en",
-        "source": "https://github.com/yiisoft/_____"
+        "chat": "https://t.me/yii3en"
     },
     "funding": [
         {
@@ -40,12 +41,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\_____\\": "src"
+            "Yiisoft\\Locale\\Middleware\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\_____\\Tests\\": "tests"
+            "Yiisoft\\Locale\\Middleware\\Tests\\": "tests"
         }
     },
     "config": {
