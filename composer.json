@@ -3,8 +3,6 @@
     "type": "library",
     "description": "_____",
     "keywords": [
-        "yii",
-        "framework",
         "locale",
         "middleware"
     ],
